@@ -1,0 +1,24 @@
+.slot-container {
+  display: flex;
+  gap: 1rem;
+}
+
+.slot-block {
+  width: 5rem;
+  height: 5rem;
+  border: 4px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  font-size: 3rem;
+}
+
+.credits-display {
+  font-size: 1.125rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 1rem;
+}
